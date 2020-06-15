@@ -1,0 +1,86 @@
+body {
+    background: #9BD9CA;
+}
+
+.title {
+    width: 160px;
+    height: 50px;
+    display: inline-block;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #00A4BA;
+}
+
+.line {
+    width: 100%;
+    size: 3px;
+    color: #00A4BA;
+}
+
+.Add-Task {
+    width: 320px;
+    height: 64px;
+    background: rgba(0, 182, 207, 0.92);
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    border: #fff;
+    margin-top: 100px;
+
+    color: #007484;
+}
+
+.Sorting {
+    width: 260px;
+    height: 37px;
+    display: inline-block;
+    background: #9BD9CA;
+    border: #9BD9CA;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 34px;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #00A4BA;
+}
+
+.block {
+    width: 260px;
+    height: 95px;
+    display: none;
+
+    background: rgba(144, 197, 184, 0.8);
+    border-radius: 10px;
+    width: 235px;
+    height: 75px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #00A4BA;
+}
+
+.hide {
+    display: none;
+}
